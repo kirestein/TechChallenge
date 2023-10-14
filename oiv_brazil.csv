@@ -1,0 +1,358 @@
+Continent;Region/Country;Product;Variable;Year;Unit;Quantity
+America;Brazil;Fresh Grapes;Production;2021;tonnes;1 687 908
+America;Brazil;Fresh Grapes;Production;2017;tonnes;1 680 020
+America;Brazil;Fresh Grapes;Production;2018;tonnes;1 592 242
+America;Brazil;Fresh Grapes;Production;2022;tonnes;1 502 357
+America;Brazil;Fresh Grapes;Production;2015;tonnes;1 499 353
+America;Brazil;Fresh Grapes;Production;2011;tonnes;1 463 481
+America;Brazil;Fresh Grapes;Production;2012;tonnes;1 455 809
+America;Brazil;Fresh Grapes;Production;2019;tonnes;1 445 705
+America;Brazil;Fresh Grapes;Production;2014;tonnes;1 436 074
+America;Brazil;Fresh Grapes;Production;2008;tonnes;1 421 431
+America;Brazil;Fresh Grapes;Production;2020;tonnes;1 416 398
+America;Brazil;Fresh Grapes;Production;2013;tonnes;1 412 854
+America;Brazil;Fresh Grapes;Production;2007;tonnes;1 371 555
+America;Brazil;Fresh Grapes;Production;2009;tonnes;1 345 719
+America;Brazil;Fresh Grapes;Production;2010;tonnes;1 295 442
+America;Brazil;Fresh Grapes;Production;2004;tonnes;1 291 382
+America;Brazil;Fresh Grapes;Production;2006;tonnes;1 257 064
+America;Brazil;Fresh Grapes;Production;2005;tonnes;1 232 564
+America;Brazil;Fresh Grapes;Production;2002;tonnes;1 148 650
+America;Brazil;Fresh Grapes;Production;2003;tonnes;1 067 420
+America;Brazil;Fresh Grapes;Production;2001;tonnes;1 058 490
+America;Brazil;Fresh Grapes;Production;2000;tonnes;1 024 482
+America;Brazil;Fresh Grapes;Production;2016;tonnes; 987 059
+America;Brazil;Fresh Grapes;Production;1999;tonnes; 931 500
+America;Brazil;Fresh Grapes;Production;1997;tonnes; 890 708
+America;Brazil;Table Grapes;Production;2021;tonnes; 881 603
+America;Brazil;Table Grapes;Production;2017;tonnes; 861 237
+America;Brazil;Table Grapes;Consumption;2017;tonnes; 840 941
+America;Brazil;Table Grapes;Production;2018;tonnes; 837 464
+America;Brazil;Fresh Grapes;Production;1995;tonnes; 836 545
+America;Brazil;Table Grapes;Consumption;2021;tonnes; 800 000
+America;Brazil;Table Grapes;Production;2022;tonnes; 786 331
+America;Brazil;Fresh Grapes;Production;1998;tonnes; 774 352
+America;Brazil;Table Grapes;Consumption;2014;tonnes; 768 065
+America;Brazil;Table Grapes;Production;2014;tonnes; 762 652
+America;Brazil;Table Grapes;Production;2006;tonnes; 757 700
+America;Brazil;Table Grapes;Production;2005;tonnes; 757 600
+America;Brazil;Table Grapes;Production;2020;tonnes; 754 578
+America;Brazil;Table Grapes;Consumption;2018;tonnes; 753 237
+America;Brazil;Table Grapes;Production;2015;tonnes; 748 023
+America;Brazil;Table Grapes;Production;2019;tonnes; 747 660
+America;Brazil;Table Grapes;Consumption;2015;tonnes; 745 456
+America;Brazil;Table Grapes;Consumption;2022;tonnes; 740 744
+America;Brazil;Table Grapes;Production;2010;tonnes; 737 540
+America;Brazil;Table Grapes;Consumption;2020;tonnes; 733 872
+America;Brazil;Table Grapes;Production;2013;tonnes; 733 061
+America;Brazil;Table Grapes;Consumption;2013;tonnes; 722 511
+America;Brazil;Table Grapes;Production;2007;tonnes; 717 800
+America;Brazil;Table Grapes;Consumption;2016;tonnes; 714 908
+America;Brazil;Table Grapes;Consumption;2019;tonnes; 714 867
+America;Brazil;Table Grapes;Consumption;2006;tonnes; 707 540
+America;Brazil;Table Grapes;Production;2004;tonnes; 695 400
+America;Brazil;Table Grapes;Production;2008;tonnes; 691 200
+America;Brazil;Fresh Grapes;Production;1996;tonnes; 684 902
+America;Brazil;Table Grapes;Consumption;2010;tonnes; 676 774
+America;Brazil;Table Grapes;Production;2009;tonnes; 667 550
+America;Brazil;Table Grapes;Consumption;2007;tonnes; 654 304
+America;Brazil;Table Grapes;Consumption;2005;tonnes; 652 500
+America;Brazil;Table Grapes;Production;2016;tonnes; 641 436
+America;Brazil;Table Grapes;Consumption;2004;tonnes; 634 600
+America;Brazil;Table Grapes;Consumption;2009;tonnes; 631 645
+America;Brazil;Table Grapes;Production;2003;tonnes; 629 000
+America;Brazil;Table Grapes;Production;2011;tonnes; 627 400
+America;Brazil;Table Grapes;Production;2012;tonnes; 624 894
+America;Brazil;Table Grapes;Consumption;2008;tonnes; 621 500
+America;Brazil;Table Grapes;Production;2002;tonnes; 613 800
+America;Brazil;Table Grapes;Consumption;2012;tonnes; 606 172
+America;Brazil;Table Grapes;Consumption;2011;tonnes; 602 115
+America;Brazil;Table Grapes;Consumption;2003;tonnes; 598 900
+America;Brazil;Table Grapes;Consumption;2002;tonnes; 598 400
+America;Brazil;Table Grapes;Production;2001;tonnes; 593 800
+America;Brazil;Table Grapes;Consumption;2001;tonnes; 581 500
+America;Brazil;Table Grapes;Consumption;1997;tonnes; 495 500
+America;Brazil;Table Grapes;Production;1997;tonnes; 495 500
+America;Brazil;Table Grapes;Consumption;1996;tonnes; 434 700
+America;Brazil;Table Grapes;Production;1996;tonnes; 434 700
+America;Brazil;Table Grapes;Production;2000;tonnes; 429 300
+America;Brazil;Table Grapes;Consumption;2000;tonnes; 424 800
+America;Brazil;Table Grapes;Consumption;1998;tonnes; 410 000
+America;Brazil;Table Grapes;Production;1998;tonnes; 410 000
+America;Brazil;Table Grapes;Consumption;1995;tonnes; 400 000
+America;Brazil;Table Grapes;Production;1995;tonnes; 400 000
+America;Brazil;Table Grapes;Consumption;1999;tonnes; 388 500
+America;Brazil;Table Grapes;Production;1999;tonnes; 388 500
+America;Brazil;Vineyard;Surface Area;1995;ha; 61 339
+America;Brazil;Vineyard;Surface Area;1996;ha; 56 247
+America;Brazil;Vineyard;Surface Area;1997;ha; 57 036
+America;Brazil;Vineyard;Surface Area;1998;ha; 61 099
+America;Brazil;Vineyard;Surface Area;1999;ha; 60 528
+America;Brazil;Vineyard;Surface Area;2000;ha; 63 000
+America;Brazil;Vineyard;Surface Area;2001;ha; 68 585
+America;Brazil;Vineyard;Surface Area;2002;ha; 70 305
+America;Brazil;Vineyard;Surface Area;2003;ha; 73 423
+America;Brazil;Vineyard;Surface Area;2004;ha; 76 433
+America;Brazil;Vineyard;Surface Area;2005;ha; 78 690
+America;Brazil;Vineyard;Surface Area;2006;ha; 82 924
+America;Brazil;Fresh Grapes;Exports;2008;tonnes; 82 242
+America;Brazil;Vineyard;Surface Area;2007;ha; 86 158
+America;Brazil;Vineyard;Surface Area;2008;ha; 91 896
+America;Brazil;Vineyard;Surface Area;2009;ha; 90 860
+America;Brazil;Vineyard;Surface Area;2010;ha; 92 070
+America;Brazil;Vineyard;Surface Area;2011;ha; 90 107
+America;Brazil;Fresh Grapes;Exports;2007;tonnes; 79 081
+America;Brazil;Vineyard;Surface Area;2012;ha; 90 958
+America;Brazil;Fresh Grapes;Exports;2021;tonnes; 76 609
+America;Brazil;Vineyard;Surface Area;2013;ha; 89 768
+America;Brazil;Vineyard;Surface Area;2014;ha; 88 634
+America;Brazil;Vineyard;Surface Area;2015;ha; 87 003
+America;Brazil;Vineyard;Surface Area;2016;ha; 86 408
+America;Brazil;Vineyard;Surface Area;2017;ha; 83 880
+America;Brazil;Fresh Grapes;Exports;2006;tonnes; 62 251
+America;Brazil;Vineyard;Surface Area;2018;ha; 81 647
+America;Brazil;Vineyard;Surface Area;2019;ha; 81 411
+America;Brazil;Fresh Grapes;Exports;2010;tonnes; 60 799
+America;Brazil;Vineyard;Surface Area;2020;ha; 80 438
+America;Brazil;Fresh Grapes;Exports;2011;tonnes; 59 391
+America;Brazil;Vineyard;Surface Area;2021;ha; 80 633
+America;Brazil;Vineyard;Surface Area;2022;ha; 81 312
+America;Brazil;Fresh Grapes;Exports;2009;tonnes; 54 560
+America;Brazil;Fresh Grapes;Exports;2022;tonnes; 52 561
+America;Brazil;Fresh Grapes;Exports;2012;tonnes; 52 016
+America;Brazil;Fresh Grapes;Exports;2005;tonnes; 51 213
+America;Brazil;Fresh Grapes;Exports;2020;tonnes; 49 228
+America;Brazil;Fresh Grapes;Exports;2019;tonnes; 45 054
+America;Brazil;Fresh Grapes;Exports;2017;tonnes; 44 490
+America;Brazil;Fresh Grapes;Exports;2013;tonnes; 43 181
+America;Brazil;Fresh Grapes;Exports;2018;tonnes; 39 818
+America;Brazil;Dried Grapes;Imports;1995;tonnes; 38 764
+America;Brazil;Fresh Grapes;Exports;2003;tonnes; 37 601
+America;Brazil;Dried Grapes;Consumption;1995;tonnes; 36 826
+America;Brazil;Fresh Grapes;Exports;2015;tonnes; 34 385
+America;Brazil;Fresh Grapes;Imports;2011;tonnes; 34 083
+America;Brazil;Fresh Grapes;Imports;2014;tonnes; 33 800
+America;Brazil;Fresh Grapes;Imports;2012;tonnes; 33 295
+America;Brazil;Fresh Grapes;Imports;2013;tonnes; 32 631
+America;Brazil;Fresh Grapes;Imports;2015;tonnes; 31 818
+America;Brazil;Fresh Grapes;Exports;2016;tonnes; 30 810
+America;Brazil;Dried Grapes;Imports;2022;tonnes; 30 015
+America;Brazil;Fresh Grapes;Imports;1996;tonnes; 29 142
+America;Brazil;Fresh Grapes;Exports;2004;tonnes; 28 815
+America;Brazil;Dried Grapes;Imports;2020;tonnes; 28 522
+America;Brazil;Dried Grapes;Consumption;2020;tonnes; 28 521
+America;Brazil;Fresh Grapes;Exports;2014;tonnes; 28 340
+America;Brazil;Dried Grapes;Consumption;2019;tonnes; 27 809
+America;Brazil;Dried Grapes;Imports;2019;tonnes; 27 809
+America;Brazil;Fresh Grapes;Imports;2016;tonnes; 27 780
+America;Brazil;Dried Grapes;Consumption;2016;tonnes; 27 545
+America;Brazil;Dried Grapes;Imports;2016;tonnes; 27 540
+America;Brazil;Fresh Grapes;Imports;1998;tonnes; 26 492
+America;Brazil;Dried Grapes;Consumption;2018;tonnes; 26 389
+America;Brazil;Dried Grapes;Imports;2018;tonnes; 26 389
+America;Brazil;Dried Grapes;Consumption;2021;tonnes; 26 389
+America;Brazil;Fresh Grapes;Exports;2002;tonnes; 26 357
+America;Brazil;Dried Grapes;Consumption;2022;tonnes; 26 000
+America;Brazil;Dried Grapes;Imports;2021;tonnes; 25 955
+America;Brazil;Dried Grapes;Imports;2010;tonnes; 25 919
+America;Brazil;Dried Grapes;Consumption;2010;tonnes; 25 900
+America;Brazil;Dried Grapes;Consumption;2017;tonnes; 25 336
+America;Brazil;Dried Grapes;Imports;2017;tonnes; 25 330
+America;Brazil;Dried Grapes;Imports;2015;tonnes; 25 000
+America;Brazil;Dried Grapes;Imports;2013;tonnes; 24 908
+America;Brazil;Dried Grapes;Consumption;2015;tonnes; 24 800
+America;Brazil;Fresh Grapes;Imports;2010;tonnes; 24 795
+America;Brazil;Dried Grapes;Consumption;2012;tonnes; 24 613
+America;Brazil;Dried Grapes;Imports;2012;tonnes; 24 613
+America;Brazil;Dried Grapes;Consumption;2011;tonnes; 24 294
+America;Brazil;Dried Grapes;Imports;2011;tonnes; 24 294
+America;Brazil;Fresh Grapes;Imports;2017;tonnes; 24 200
+America;Brazil;Dried Grapes;Consumption;2014;tonnes; 23 723
+America;Brazil;Fresh Grapes;Imports;1995;tonnes; 23 708
+America;Brazil;Dried Grapes;Imports;2014;tonnes; 23 700
+America;Brazil;Dried Grapes;Consumption;2013;tonnes; 23 414
+America;Brazil;Fresh Grapes;Imports;1997;tonnes; 23 182
+America;Brazil;Dried Grapes;Consumption;2009;tonnes; 22 700
+America;Brazil;Dried Grapes;Imports;2009;tonnes; 22 656
+America;Brazil;Fresh Grapes;Exports;2001;tonnes; 20 666
+America;Brazil;Dried Grapes;Imports;2008;tonnes; 20 146
+America;Brazil;Dried Grapes;Consumption;2008;tonnes; 20 100
+America;Brazil;Dried Grapes;Consumption;2006;tonnes; 19 776
+America;Brazil;Dried Grapes;Imports;2006;tonnes; 19 776
+America;Brazil;Fresh Grapes;Imports;2018;tonnes; 19 100
+America;Brazil;Dried Grapes;Consumption;2007;tonnes; 18 900
+America;Brazil;Dried Grapes;Imports;2007;tonnes; 18 895
+America;Brazil;Fresh Grapes;Imports;2009;tonnes; 18 665
+America;Brazil;Dried Grapes;Consumption;2004;tonnes; 16 659
+America;Brazil;Dried Grapes;Imports;2004;tonnes; 16 656
+America;Brazil;Dried Grapes;Imports;1997;tonnes; 16 439
+America;Brazil;Dried Grapes;Imports;2001;tonnes; 16 408
+America;Brazil;Dried Grapes;Imports;1999;tonnes; 16 017
+America;Brazil;Dried Grapes;Consumption;1999;tonnes; 16 016
+America;Brazil;Dried Grapes;Imports;2005;tonnes; 15 597
+America;Brazil;Dried Grapes;Consumption;2005;tonnes; 15 590
+America;Brazil;Dried Grapes;Consumption;2001;tonnes; 15 572
+America;Brazil;Fresh Grapes;Imports;2007;tonnes; 15 550
+America;Brazil;Dried Grapes;Consumption;1998;tonnes; 15 447
+America;Brazil;Dried Grapes;Imports;1998;tonnes; 15 447
+America;Brazil;Dried Grapes;Imports;1996;tonnes; 15 254
+America;Brazil;Dried Grapes;Imports;2000;tonnes; 15 136
+America;Brazil;Dried Grapes;Imports;2003;tonnes; 15 023
+America;Brazil;Dried Grapes;Consumption;2003;tonnes; 15 020
+America;Brazil;Dried Grapes;Consumption;1997;tonnes; 15 000
+America;Brazil;Dried Grapes;Consumption;2000;tonnes; 14 928
+America;Brazil;Dried Grapes;Consumption;1996;tonnes; 14 459
+America;Brazil;Fresh Grapes;Imports;2019;tonnes; 14 425
+America;Brazil;Fresh Grapes;Exports;2000;tonnes; 14 363
+America;Brazil;Dried Grapes;Consumption;2002;tonnes; 13 760
+America;Brazil;Dried Grapes;Imports;2002;tonnes; 13 758
+America;Brazil;Fresh Grapes;Imports;2008;tonnes; 12 565
+America;Brazil;Fresh Grapes;Imports;2006;tonnes; 12 106
+America;Brazil;Fresh Grapes;Imports;2002;tonnes; 11 039
+America;Brazil;Fresh Grapes;Imports;2000;tonnes; 9 912
+America;Brazil;Fresh Grapes;Imports;1999;tonnes; 8 599
+America;Brazil;Fresh Grapes;Imports;2005;tonnes; 8 387
+America;Brazil;Fresh Grapes;Exports;1999;tonnes; 8 083
+America;Brazil;Fresh Grapes;Imports;2022;tonnes; 7 749
+America;Brazil;Fresh Grapes;Imports;2003;tonnes; 7 612
+America;Brazil;Fresh Grapes;Imports;2001;tonnes; 7 457
+America;Brazil;Fresh Grapes;Imports;2020;tonnes; 7 250
+America;Brazil;Fresh Grapes;Exports;1995;tonnes; 6 786
+America;Brazil;Fresh Grapes;Imports;2004;tonnes; 6 072
+America;Brazil;Fresh Grapes;Imports;2021;tonnes; 5 321
+America;Brazil;Fresh Grapes;Exports;1996;tonnes; 4 516
+America;Brazil;Fresh Grapes;Exports;1998;tonnes; 4 406
+America;Brazil;Wine;Consumption;2021;100000l; 4 123
+America;Brazil;Wine;Consumption;2020;100000l; 4 053
+America;Brazil;Wine;Production;2004;100000l; 3 925
+America;Brazil;Wine;Consumption;2005;100000l; 3 710
+America;Brazil;Fresh Grapes;Exports;1997;tonnes; 3 705
+America;Brazil;Wine;Consumption;2010;100000l; 3 686
+America;Brazil;Wine;Production;2008;100000l; 3 683
+America;Brazil;Wine;Production;2000;100000l; 3 638
+America;Brazil;Wine;Consumption;2019;100000l; 3 634
+America;Brazil;Wine;Consumption;2011;100000l; 3 625
+America;Brazil;Wine;Consumption;2022;100000l; 3 590
+America;Brazil;Wine;Production;2017;100000l; 3 553
+America;Brazil;Wine;Consumption;2009;100000l; 3 508
+America;Brazil;Wine;Production;2007;100000l; 3 502
+America;Brazil;Wine;Consumption;2013;100000l; 3 488
+America;Brazil;Wine;Consumption;2006;100000l; 3 466
+America;Brazil;Wine;Production;2011;100000l; 3 460
+America;Brazil;Wine;Consumption;2018;100000l; 3 285
+America;Brazil;Wine;Consumption;2017;100000l; 3 278
+America;Brazil;Wine;Consumption;2015;100000l; 3 270
+America;Brazil;Wine;Consumption;2008;100000l; 3 265
+America;Brazil;Wine;Consumption;2007;100000l; 3 254
+America;Brazil;Wine;Consumption;2014;100000l; 3 233
+America;Brazil;Wine;Production;2002;100000l; 3 212
+America;Brazil;Wine;Production;2022;100000l; 3 200
+America;Brazil;Wine;Production;2005;100000l; 3 199
+America;Brazil;Wine;Consumption;2012;100000l; 3 198
+America;Brazil;Wine;Consumption;2002;100000l; 3 178
+America;Brazil;Wine;Consumption;2000;100000l; 3 177
+America;Brazil;Wine;Consumption;2004;100000l; 3 177
+America;Brazil;Wine;Production;1995;100000l; 3 128
+America;Brazil;Wine;Production;1999;100000l; 3 116
+America;Brazil;Wine;Consumption;2016;100000l; 3 112
+America;Brazil;Wine;Production;2018;100000l; 3 084
+America;Brazil;Wine;Consumption;2001;100000l; 3 079
+America;Brazil;Wine;Consumption;2003;100000l; 3 077
+America;Brazil;Wine;Production;2001;100000l; 2 968
+America;Brazil;Wine;Production;2012;100000l; 2 967
+America;Brazil;Wine;Consumption;1999;100000l; 2 963
+America;Brazil;Wine;Production;2021;100000l; 2 928
+America;Brazil;Wine;Production;2014;100000l; 2 810
+America;Brazil;Wine;Production;1998;100000l; 2 782
+America;Brazil;Wine;Production;1997;100000l; 2 743
+America;Brazil;Wine;Production;2009;100000l; 2 720
+America;Brazil;Wine;Production;2013;100000l; 2 710
+America;Brazil;Wine;Production;2015;100000l; 2 699
+America;Brazil;Wine;Production;2003;100000l; 2 620
+America;Brazil;Wine;Consumption;1997;100000l; 2 577
+America;Brazil;Wine;Consumption;1998;100000l; 2 552
+America;Brazil;Wine;Production;2010;100000l; 2 459
+America;Brazil;Wine;Consumption;1995;100000l; 2 414
+America;Brazil;Wine;Production;2006;100000l; 2 372
+America;Brazil;Wine;Consumption;1996;100000l; 2 358
+America;Brazil;Wine;Production;1996;100000l; 2 320
+America;Brazil;Wine;Production;2020;100000l; 2 257
+America;Brazil;Wine;Production;2023;100000l; 2 250
+America;Brazil;Wine;Production;2019;100000l; 2 176
+America;Brazil;Wine;Imports;2021;100000l; 1 825
+America;Brazil;Wine;Imports;2022;100000l; 1 541
+America;Brazil;Wine;Imports;2020;100000l; 1 520
+America;Brazil;Wine;Imports;2017;100000l; 1 258
+America;Brazil;Wine;Production;2016;100000l; 1 257
+America;Brazil;Wine;Imports;2019;100000l; 1 204
+America;Brazil;Wine;Imports;2018;100000l; 1 102
+America;Brazil;Wine;Imports;2016;100000l;  921
+America;Brazil;Wine;Imports;2015;100000l;  818
+America;Brazil;Wine;Imports;2014;100000l;  812
+America;Brazil;Wine;Imports;2012;100000l;  742
+America;Brazil;Wine;Imports;2011;100000l;  727
+America;Brazil;Wine;Imports;2010;100000l;  707
+America;Brazil;Wine;Imports;2013;100000l;  679
+America;Brazil;Wine;Imports;2007;100000l;  609
+America;Brazil;Wine;Imports;2008;100000l;  579
+America;Brazil;Wine;Imports;2009;100000l;  559
+America;Brazil;Wine;Imports;2006;100000l;  509
+America;Brazil;Wine;Imports;2005;100000l;  409
+America;Brazil;Wine;Imports;2004;100000l;  392
+America;Brazil;Wine;Imports;2000;100000l;  312
+America;Brazil;Wine;Imports;2001;100000l;  299
+America;Brazil;Wine;Imports;2003;100000l;  293
+America;Brazil;Wine;Imports;1999;100000l;  284
+America;Brazil;Wine;Imports;1995;100000l;  279
+America;Brazil;Wine;Imports;2002;100000l;  266
+America;Brazil;Wine;Exports;2009;100000l;  257
+America;Brazil;Wine;Imports;1997;100000l;  253
+America;Brazil;Wine;Imports;1998;100000l;  241
+America;Brazil;Wine;Imports;1996;100000l;  234
+America;Brazil;Wine;Exports;1997;100000l;  153
+America;Brazil;Wine;Exports;1995;100000l;  146
+America;Brazil;Wine;Exports;1996;100000l;  145
+America;Brazil;Dried Grapes;Exports;2002;tonnes;  100
+America;Brazil;Dried Grapes;Exports;2020;tonnes;  100
+America;Brazil;Wine;Exports;2008;100000l;  96
+America;Brazil;Wine;Exports;2013;100000l;  91
+America;Brazil;Wine;Exports;2021;100000l;  80
+America;Brazil;Wine;Exports;1998;100000l;  78
+America;Brazil;Wine;Exports;2022;100000l;  78
+America;Brazil;Wine;Exports;1999;100000l;  76
+America;Brazil;Wine;Exports;2000;100000l;  65
+America;Brazil;Dried Grapes;Exports;1997;tonnes;  61
+America;Brazil;Wine;Exports;2012;100000l;  59
+America;Brazil;Wine;Exports;2001;100000l;  56
+America;Brazil;Wine;Exports;2020;100000l;  50
+America;Brazil;Wine;Exports;2018;100000l;  42
+America;Brazil;Wine;Exports;2019;100000l;  38
+America;Brazil;Dried Grapes;Exports;2004;tonnes;  36
+America;Brazil;Wine;Exports;2005;100000l;  36
+America;Brazil;Wine;Exports;2006;100000l;  34
+America;Brazil;Dried Grapes;Exports;1996;tonnes;  32
+America;Brazil;Wine;Exports;2017;100000l;  32
+America;Brazil;Dried Grapes;Exports;2022;tonnes;  32
+America;Brazil;Wine;Exports;2004;100000l;  30
+America;Brazil;Wine;Exports;2007;100000l;  27
+America;Brazil;Wine;Exports;2014;100000l;  27
+America;Brazil;Dried Grapes;Exports;1998;tonnes;  23
+America;Brazil;Wine;Exports;2002;100000l;  23
+America;Brazil;Dried Grapes;Exports;2021;tonnes;  22
+America;Brazil;Wine;Exports;2016;100000l;  20
+America;Brazil;Dried Grapes;Exports;2009;tonnes;  18
+America;Brazil;Dried Grapes;Exports;2001;tonnes;  16
+America;Brazil;Wine;Exports;2003;100000l;  15
+America;Brazil;Wine;Exports;2010;100000l;  15
+America;Brazil;Wine;Exports;2011;100000l;  13
+America;Brazil;Wine;Exports;2015;100000l;  13
+America;Brazil;Dried Grapes;Exports;2019;tonnes;  6
+America;Brazil;Dried Grapes;Exports;2006;tonnes;  3
+America;Brazil;Dried Grapes;Exports;2010;tonnes;  3
+America;Brazil;Dried Grapes;Exports;2000;tonnes;  2
+America;Brazil;Dried Grapes;Exports;2008;tonnes;  2
+America;Brazil;Dried Grapes;Exports;2011;tonnes;  2
+America;Brazil;Dried Grapes;Exports;2012;tonnes;  2
+America;Brazil;Dried Grapes;Exports;2018;tonnes;  2
+America;Brazil;Dried Grapes;Exports;2007;tonnes;  1
+America;Brazil;Dried Grapes;Exports;2013;tonnes;  1
